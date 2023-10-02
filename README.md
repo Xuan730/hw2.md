@@ -1,6 +1,4 @@
-PERT/CPM 圖
-
-甘特圖
+# 甘特圖
 ### Mermaid
 ```mermaid
 gantt
@@ -14,4 +12,6 @@ gantt
     anther task      : 24d
 ```
 
-關鍵路徑
+# PERT圖
+
+# 關鍵路徑
